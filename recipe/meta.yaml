@@ -28,7 +28,7 @@ requirements:
     - matplotlib-base
     - netCDF4
     - numpy
-    - platformsdirs
+    - platformdirs
     - pyproj
     - python >={{ python_min }}
     - python-dateutil
